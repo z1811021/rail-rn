@@ -1,0 +1,12 @@
+{
+  "android": {
+    "package": "com.ddw.ddw"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "6a80701e-c9fc-48a6-88bd-0b1d435b5724"
+    }
+  },
+  "owner": "jorge_gong",
+  "slug": "ddw"
+}
