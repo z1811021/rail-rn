@@ -1,12 +1,17 @@
 {
-  "android": {
-    "package": "com.ddw.ddw"
-  },
-  "extra": {
-    "eas": {
-      "projectId": "6a80701e-c9fc-48a6-88bd-0b1d435b5724"
-    }
-  },
-  "owner": "jorge_gong",
-  "slug": "ddw"
+	"android": {
+		"package": "com.ddw.ddw"
+	},
+	"extra": {
+		"eas": {
+			"projectId": "6a80701e-c9fc-48a6-88bd-0b1d435b5724"
+		}
+	},
+	"owner": "jorge_gong",
+	"slug": "ddw",
+	"icon": "./attachment/ic_launcher_round.png",
+	"name": "荣远监测",
+	"expo": {
+		"plugins": ["@config-plugins/react-native-ble-plx"]
+	}
 }
